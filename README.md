@@ -51,7 +51,7 @@ This guide will help you set up OAuth 2.0 for your application using Google Clou
 
 ## 6. Integrate OAuth 2.0 in Your Application
 - **Backend Setup**: Use libraries like `google-auth-library` for Node.js, `google-api-python-client` for Python, or equivalent for your tech stack.
-  use next-auth @next-auth/google for next.js
+  use next-auth for next.js
 - **Frontend Setup**: For web applications, you can use libraries like `@react-oauth/google` for React or the standard Google API libraries.
 
 ## 7. Handle Authentication and Authorization
